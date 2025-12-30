@@ -1,4 +1,4 @@
-📊 Customer Shopping Behavior Analysis
+Customer Shopping Behavior Analysis
 
 Overview:
 
@@ -94,7 +94,9 @@ Execute SQL queries from the provided .sql file
 
 Open the Power BI file to explore the dashboard
 
-Author
+Author:
 
 Janvi 
+
+
 Data Analytics Project
